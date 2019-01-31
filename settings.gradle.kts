@@ -8,3 +8,8 @@
  */
 
 rootProject.name = "ct-discovery"
+
+
+include("api")
+include("gradle-plugin")
+include("kotlin-plugin")
